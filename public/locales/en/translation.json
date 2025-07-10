@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "login": "Login",
+        "register": "Register",
+        "logout": "Logout",
+        "username": "Username",
+        "password": "Password",
+        "word1": "<Hello />",
+        "word2": "<Secure />",
+        "word3": "<Easy Access />",
+        "authentifier": "<Authenticate />",
+        "connect": "<Connect />",
+        "secure": "<Secure />",
+        "motdepassoublier": "Forgot password?",
+        "se connecter": "Log in",
+        "Souvenirmoi": "Remember me",
+        "lparagraph": "Don't have an account?",
+        "nomcomplet": "Full name",
+        "placeholderUserName": "Enter username",
+        "placeholderpassword": "Enter password"
+    }
+}

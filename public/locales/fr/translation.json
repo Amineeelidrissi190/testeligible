@@ -1,0 +1,22 @@
+{
+    "auth": {
+        "login": "S'authentifier",
+        "register": "S'inscrire",
+        "logout": "Se déconnecter",
+        "username": "Nom d'utilisateur",
+        "password": "Mot de passe",
+        "word1": "<Bonjour />",
+        "word2": "<Sécurisé />",
+        "word3": "<Accès facile />",
+        "authentifier": "<Authentifier />",
+        "connect": "<Se connecter />",
+        "secure": "<Sécurisé />",
+        "motdepassoublier": "Mot de passe oublié ?",
+        "se connecter": "Se connecter",
+        "Souvenirmoi": "Se souvenir de moi",
+        "lparagraph": "Vous n'avez pas de compte ?",
+        "nomcomplet": "Nom complet",
+        "placeholderUserName": "Entrez le nom d'utilisateur",
+        "placeholderpassword": "Entrez le mot de passe"
+    }
+}
